@@ -1,4 +1,4 @@
-### Hi there, I'm Clícia Natalia 👋
+### Olá, me chamdo Clícia Natalia 👋
 
 **Front-end React Developer | Full Stack Enthusiast**
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
 Desenvolvedora com **5 anos de experiência** transformando requisitos complexos em produtos digitais escaláveis. Atuo no ecossistema **Full Stack** (React, Next.js, React Native, Node.js) com foco em arquitetura de software, performance e experiência do usuário.
 
@@ -54,9 +54,10 @@ Minha abordagem é pautada por entregas prontas para escala — desde a padroniz
     </td>
   </tr>
   <tr>
-    <td><b>DevOps & Cloud</b></td>
+    <td><b>DevOps/Cloud/Arquitetura</b></td>
     <td>
       <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square&logo=architecture&logoColor=white" />
+       <img src="https://img.shields.io/badge/Feature--Module-0EA5E9?style=flat-square&logo=webpack&logoColor=white" />
       <img src="https://img.shields.io/badge/SOLID-1F2937?style=flat-square&logo=solid&logoColor=white" />
       <img src="https://img.shields.io/badge/Micro_Frontends-4F46E5?style=flat-square&logo=micro-frontend&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -125,9 +126,9 @@ Minha abordagem é pautada por entregas prontas para escala — desde a padroniz
 
 ---
 
-## 🏆 Highlighted Projects
+## 🏆 Projeto
 
-### [Transaction IA](https://github.com/nataliaaraujolima) — Full Stack
+### [Transaction IA](https://transaction-ia.vercel.app) — Full Stack
 > Plataforma de gestão financeira inteligente com IA integrada.
 
 - Integração com **Open Finance (Pluggy)** para conexão bancária automatizada
@@ -136,17 +137,7 @@ Minha abordagem é pautada por entregas prontas para escala — desde a padroniz
 - Sistema de assinaturas recorrentes com **Stripe**
 - Backend com **PostgreSQL** + **Drizzle ORM**
 
-### [E-commerce](https://github.com/nataliaaraujolima) — Full Stack
-> Aplicação e-commerce escalável com renderização híbrida.
-
-- **Next.js** com SSR/SSG para performance e SEO otimizados
-- Autenticação com **Better Auth** e pagamentos via **Stripe**
-- Pipeline de **CI/CD** automatizado na **Vercel**
-- Desenvolvido em **Spec-Driven Development (SDD)**
-
 ---
-
-## 💡 What I Bring to the Table
 
 ```
 📐 Arquitetura          → Clean Architecture, SOLID, Feature Modules, Micro Frontends
@@ -157,21 +148,7 @@ Minha abordagem é pautada por entregas prontas para escala — desde a padroniz
 🤖 IA Aplicada         → OpenAI API, Engenharia de Prompt, Pós-graduação em Arquitetura de Software com IA
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaaraujolima&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaaraujolima&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Education & Certifications
+## 🎓 Formação e certificado
 
 | Certificação | Instituição |
 |---|---|
@@ -183,23 +160,3 @@ Minha abordagem é pautada por entregas prontas para escala — desde a padroniz
 | ✍️ Engenharia de Prompt | Rocketseat |
 | 📘 Desenvolvimento Avançado com TypeScript | Coffstack |
 
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧-cnnatalia24@gmail.com-EA4335?style=for-the-badge)](mailto:cnnatalia24@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/nataliaaraujolima)
-[![GitHub](https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge)](https://github.com/nataliaaraujolima)
-[![Phone](https://img.shields.io/badge/📱-(61)%2099655-6983-25D366?style=for-the-badge)](https://wa.me/5561996556983)
-
-</div>
-
----
-
-<div align="center">
-
-*"Transformando requisitos complexos em produtos digitais escaláveis."*
-
-</div>
